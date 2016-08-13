@@ -1,0 +1,2 @@
+# HappyTracker
+School project HappyTracker
